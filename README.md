@@ -16,4 +16,4 @@ Destroy as many enemies as you can while trying to survive. The game ends when y
 * giving the player a health cap  
 * adding sound effects to the game  
 * fix a bug where the "Enemies defeated" count will increment by 2 if the script was written in a way where it made sense not to  
-* fix a bug where enemies' speed increases dramatically when graphic settings are set to low or very low
+* fix a bug where enemies' speeds increase dramatically when graphic settings are set to low or very low
