@@ -1,7 +1,7 @@
 Twinstick Shooter  
 ===  
   
-This is a game I developed to get an introduction to scripting in C#, and also to use Unity's game development tools.  
+This is a game I developed to get an introduction to scripting in C#, and also to use Unity's game development tools. You can play the game by pulling or downloading this repository, going into the `Builds` directory, and running `twinstick_shooter.exe`.  
   
 ### Goal:  
 Destroy as many enemies as you can while trying to survive. The game ends when you run out of health.  
